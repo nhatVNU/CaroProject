@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
+//change for test git 
 #pragma warning(disable:4996)
 
 #define MAX_SIZE 15
